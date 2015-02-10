@@ -1,4 +1,4 @@
-# PeevedPenguinsTemplate-Spritebuilder-master
+# PeevedPenguins-Yun
 
 This repository is the an ios game: Peeved Penguins built with SpriteBuilder and Cocos2d.
 
